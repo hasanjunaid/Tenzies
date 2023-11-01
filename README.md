@@ -61,7 +61,7 @@ To run this project, you need to have Node.js and npm installed on your machine.
 
 ### Other dependencies 
 
-- Check the package.json file for a list of project dependencies.
+Check the package.json file for a list of project dependencies.
   
 ### Contributing
 If you would like to contribute to the project or report issues, feel free to get in touch with me or open an issue.
