@@ -6,7 +6,7 @@ Tenzies is an entertaining React-based game where players aim to match numbers i
 
 ## Demo
 
-You can play the game online by visiting the https://tenzithrills.netlify.app/.
+You can play the game online by visiting https://tenzithrills.netlify.app/
 
 ## Features
 
